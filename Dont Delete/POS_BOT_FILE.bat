@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\UiPath\Studio\UiRobot.exe" -file  "C:\POSMalaysia_MainFramework\Main.xaml"
